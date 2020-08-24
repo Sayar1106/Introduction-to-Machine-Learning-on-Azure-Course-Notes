@@ -218,7 +218,7 @@ machine learning models
 ![Question 1 & 2](https://i.imgur.com/DaLZlvR.png)
 ![Question 3 & 4](https://i.imgur.com/kI7JpIR.png)
 
-#### 2.10 Image Data
+### 2.10 Image Data
 
 * Another example of a data type that is commonly used as input in machine learning problems—but that isn't initially in numerical format.
 * How to represent an image as numbers?
